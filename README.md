@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Bhagavathiraja</h1>
+<h1 align="center">Hi 👋, I'm Bhagavathiraja</h1>
 <h3 align="center">Mobile Engineer Android | IOS | Firebase</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivabhagavathiraja&label=Profile%20views&color=0e75b6&style=flat" alt="sivabhagavathiraja" /> </p>
@@ -7,7 +7,7 @@ h1 align="center">Hi 👋, I'm Bhagavathiraja</h1>
 
 - 💬 Ask me about **FLutter,Firebase**
 
-- 📫 How to reach me **sivabhagavathiraja@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
